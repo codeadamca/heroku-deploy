@@ -1,0 +1,11 @@
+{
+    "name": "thomasa/heroku-deploy-html",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adam",
+            "email": "thomasadam83@hotmail.com"
+        }
+    ],
+    "require": {}
+}
