@@ -1,9 +1,9 @@
 # Deploying HTML to a Heroku App
 
 > **Note** 
-> Heroku no longer has a free plan. This process will stillwork, but will nto be free. The live links below havebeen deactivated to save cost. 
+> Heroku no longer has a free plan. This process will still work but will not be free. The live links below have been deactivated to save cost. 
 
-This sample HTML has been deployed to a Heroky App. This sample HTML is available to view at [https://heroku-deploy-html.herokuapp.com/](https://heroku-deploy-html.herokuapp.com/).
+This sample HTML has been deployed to a Heroku App. This sample HTML is available to view at [https://heroku-deploy-html.herokuapp.com/](https://heroku-deploy-html.herokuapp.com/).
 
 1. Register for a [Heroku account](https://signup.heroku.com/) (you will have to add a payment method).
 2. Go to your [Heroku dashboard](https://dashboard.heroku.com/) and create a new app. Give the app a name and choose a location. Click ```Create App```.
@@ -30,7 +30,7 @@ This sample HTML has been deployed to a Heroky App. This sample HTML is availabl
 ```
 
 5. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
-6. 
+
 
 ## Requirements:
 
