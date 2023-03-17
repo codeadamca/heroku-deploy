@@ -33,7 +33,7 @@ This sample HTML has been deployed to a Heroku App. This sample HTML is availabl
 
 ***
 
-## Requirements:
+## Repository Requirements:
 
 * [Heroku](https://dashboard.heroku.com/)
 
