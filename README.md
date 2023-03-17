@@ -31,6 +31,7 @@ This sample HTML has been deployed to a Heroku App. This sample HTML is availabl
 
 5. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
+---
 
 ## Requirements:
 
