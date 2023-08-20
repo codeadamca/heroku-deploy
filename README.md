@@ -9,31 +9,31 @@ This sample HTML has been deployed to a Heroku App. This sample HTML is availabl
 2. Go to your [Heroku dashboard](https://dashboard.heroku.com/) and create a new app. Give the app a name and choose a location. Click ```Create App```.
 3. From what I have research, Heroku is not meant for deploying static HTML. We will deploy our static HTML page by telling Heroku that this is a simple PHP application. Create a new file named ```index.php```. In that file include the following code:
 
-```php
-<?php include('index.html'); ?>
-```
+    ```php
+    <?php include('index.html'); ?>
+    ```
 
 4. Using Composer, create a new simple ```composer.json``` file. This can be done using the Terminal and ```composer init```, or creating a file names composer.json and adding the following code. 
 
-```json
-{
-    "name": "thomasa/heroku-deploy-html",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Adam",
-            "email": ""
-        }
-    ],
-    "require": {}
-}
-```
+    ```json
+    {
+        "name": "thomasa/heroku-deploy-html",
+        "type": "project",
+        "authors": [
+            {
+                "name": "Adam",
+                "email": ""
+            }
+        ],
+        "require": {}
+    }
+    ```
 
 5. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ***
 
-## Repository Requirements:
+## Repo Resources
 
 * [Heroku](https://dashboard.heroku.com/)
 
