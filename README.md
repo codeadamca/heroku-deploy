@@ -1,6 +1,6 @@
 # Deploying HTML to a Heroku App
 
-> **Note** 
+> [!Note]  
 > Heroku no longer has a free plan. This process will still work but will not be free. The live links below have been deactivated to save cost. 
 
 This sample HTML has been deployed to a Heroku App. This sample HTML is available to view at [https://heroku-deploy-html.herokuapp.com/](https://heroku-deploy-html.herokuapp.com/).
